@@ -1,0 +1,35 @@
+.main{
+    width: 1000px;
+    height: 540px;
+   
+    background-color: red;
+}
+.row1{
+    width: 1000px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    background-color:papayawhip;
+    text-transform: capitalize;
+}
+.row2{
+    width: 1000px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    background-color:violet;
+    text-transform: capitalize;
+    justify-content: center;
+    
+}
+.row2c1{
+    width: 200px;
+    height: 40px;
+    float: left;
+    content: counter(home);
+    background-color: violet;
+
+
+}
